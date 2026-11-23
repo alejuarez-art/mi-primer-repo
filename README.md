@@ -1,1 +1,1 @@
-Version de main
+# Mi primer repositorio (conflicto resuelto)
